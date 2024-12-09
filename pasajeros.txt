@@ -1,0 +1,25 @@
+Nombre: juan 
+DNI: 34535
+Telefono: 898454
+Destino: Paris
+---------------------
+Nombre: Juan 
+DNI: 98875
+Telefono: 978676
+Destino: Peru 
+---------------------
+Nombre: juan 
+DNI: 34535
+Telefono: 898454
+Destino: Paris
+---------------------
+Nombre: Juan 
+DNI: 98875
+Telefono: 978676
+Destino: Peru 
+---------------------
+Nombre: Lucas Manuel Perez Gamboa
+DNI: 23432432
+Telefono: 324324334
+Destino: Brasil 
+---------------------

@@ -1,0 +1,5 @@
+Destino: Alemania
+Fecha: 23/09/2024
+Orden de Asiento: B12
+Pago: 30
+---------------------
